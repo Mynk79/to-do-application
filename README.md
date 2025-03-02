@@ -1,4 +1,4 @@
-# To-do Application (FASTAPI)
+# To-do Application (FastAPI)
 
 This is the source code for the [CRUD API's](https://github.com/Mynk79/To-do-application). The course is meant for learning how to implement HTTP methods (POST, GET, PUT, PATCH, UPDATE) in the backend of the application.
 

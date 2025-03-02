@@ -4,7 +4,7 @@ from pydantic import BaseModel, Field
 
 class Item(BaseModel):
 
-    id: str | None = Field(
+    id: int | None = Field(
         default=None, 
         title='ID of the Item'
     )
