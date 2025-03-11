@@ -2,7 +2,7 @@ from fastapi import APIRouter, HTTPException, status, Request
 from fastapi.responses import JSONResponse, Response
 import os, json
 
-from src.db import DATABASE_FILE_PATH
+from app.db import DATABASE_FILE_PATH
 from .models import ToDoList
 
 list_router = APIRouter(

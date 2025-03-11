@@ -2,7 +2,7 @@ from fastapi import APIRouter, HTTPException, status
 from fastapi.responses import JSONResponse
 import os, json
 
-from src.db import DATABASE_FILE_PATH
+from app.db import DATABASE_FILE_PATH
 from .models import Item
 
 item_router = APIRouter(

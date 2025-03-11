@@ -1,6 +1,6 @@
 from pydantic import BaseModel, Field
 
-from src.items.models import Item
+from app.items.models import Item
 
 # Register models here
 
