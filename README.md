@@ -1,6 +1,6 @@
 # To-do Application (FastAPI)
 
-This is the source code for the [CRUD API's](https://github.com/Mynk79/To-do-application). The course is meant for learning how to implement HTTP methods (POST, GET, PUT, PATCH, UPDATE) in the backend of the application.
+This is the source code for the [CRUD API's](https://github.com/Mynk79/to-do-application). The course is meant for learning how to implement HTTP methods (POST, GET, PUT, PATCH, UPDATE) in the backend of the application.
 
 ## Table of Contents
 
@@ -20,12 +20,12 @@ Ensure you have the following installed:
 ### Project Setup
 1. Clone the project repository:
     ```bash
-    git clone https://github.com/Mynk79/To-do-application.git
+    git clone https://github.com/Mynk79/to-do-application.git
     ```
 
 2. Navigate to the project directory
     ```bash
-    cd To-do-application/
+    cd to-do-application/
     ```
 
 3. Create and activate a virtual environment (For Linux/Mac):
@@ -44,7 +44,7 @@ Ensure you have the following installed:
 ### Local Environment
 Start the Application:
 ```bash
-python3 to_do_app.py
+python3 main.py
 ```
 
 or using:
